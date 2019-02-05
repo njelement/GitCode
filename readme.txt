@@ -11,4 +11,6 @@ git commit . -m "版本注释" 提交暂存区文件/文件夹到仓库中。
 ssh-keygen -t rsa -C "adsl.com@163.com"
 然后将生成的公钥拷贝到网络端（具体步骤为图形化操作步骤，不再赘述。一台机器仅需要一个密钥即可，不同的目录不用重复生成）
 
-3）
+3）将本地仓库与远程仓库建立联系
+git remote add origin git@github.com:njelement/GitCode.git
+远程仓库名称这里命名为origin
