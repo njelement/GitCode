@@ -14,3 +14,5 @@ ssh-keygen -t rsa -C "adsl.com@163.com"
 3）将本地仓库与远程仓库建立联系
 git remote add origin git@github.com:njelement/GitCode.git
 远程仓库名称这里命名为origin
+
+4）
