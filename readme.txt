@@ -20,3 +20,6 @@ git push -u origin master
 
 5）多分枝功能，使用git brance指令，配以不同的开关参数
 git branch 查看当前分支状态（列表所有分支）
+
+6）创建、切换分支，使用
+git checkout -b
