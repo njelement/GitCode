@@ -15,5 +15,7 @@ ssh-keygen -t rsa -C "adsl.com@163.com"
 git remote add origin git@github.com:njelement/GitCode.git
 远程仓库名称这里命名为origin。
 
-4）推送到远程仓库，使用-u是建立联系，此后再次推送可不必再使用远程地址
+4）推送到远程仓库，使用-u是建立联系，此后再次推送可不必再使用远程地址/仓库名称
 git push -u origin master
+
+5）版本回滚使用
