@@ -25,3 +25,6 @@ git branch dev 新建dev分支
 6）创建、切换分支，使用
 git checkout -b
 在dev分支的修改、提交同master分支一样
+
+7）合并分支，使用
+git merge --no-ff dev
