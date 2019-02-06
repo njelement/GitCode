@@ -28,3 +28,5 @@ git checkout -b
 
 7）合并分支，使用
 git merge --no-ff dev
+文件保存、提交后再使用以上命令。切换到要合并到的分支执行命令。
+
