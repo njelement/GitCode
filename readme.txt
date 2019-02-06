@@ -18,4 +18,5 @@ git remote add origin git@github.com:njelement/GitCode.git
 4）推送到远程仓库，使用-u是建立联系，此后再次推送可不必再使用远程地址/仓库名称
 git push -u origin master
 
-5）版本回滚使用
+5）多分枝功能，使用git brance指令，配以不同的开关参数
+git branch 查看当前分支状态（列表所有分支）
