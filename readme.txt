@@ -28,3 +28,6 @@ git checkout -b
 
 7）合并分支，使用
 git merge --no-ff dev
+
+8）回溯历史版本使用命令
+git reset --hard ^HEAD
