@@ -30,3 +30,6 @@ git checkout -b
 git merge --no-ff dev
 文件保存、提交后再使用以上命令。切换到要合并到的分支执行命令。
 
+8）回溯历史版本使用命令
+git reset --hard ^HEAD
+
